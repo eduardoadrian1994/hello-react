@@ -1,7 +1,6 @@
 # Pirmer contacto con React y node js
 
 <div class="youtubr" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="YouTube" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.youtube.com/watch?v=pFyAu4R684s">donde saque la idea delproyecto</a></div>
----
 
 ## ✔️ Consigna
 
